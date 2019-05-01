@@ -27,3 +27,4 @@ class Solution:
             elif rotateArray[index_middle] <= rotateArray[index_end]:
                 index_end = index_middle
         return rotateArray[index_middle]
+
